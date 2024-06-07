@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/VikramPrajapath/vikramprajapath/assets/96242979/de9e0da5-62d2-4146-a885-7001fa2d7ead)
+[![MasterHead](https://github.com/VikramPrajapath/vikramprajapath/assets/96242979/4c2e9513-300a-4862-8a5b-f5a72bbfd1da)
 ](https://vikramprajapath.io)
 <h1 align="center">Hi 👋, I'm Vikram Prajapath</h1>
 <h3 align="center">A passionate Software developer from India</h3>
