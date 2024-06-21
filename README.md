@@ -9,6 +9,8 @@
 <p align="left"> <a href="https://twitter.com/@vprajapath80044" target="blank"><img src="https://img.shields.io/twitter/follow/@vprajapath80044?logo=twitter&style=for-the-badge" alt="@vprajapath80044" /></a> </p>
 
 - 🔭 I’m currently working on **Blockchain**
+  
+- 💻 Check out my portfolio https://vikramprajapath.github.io/Portfolio/
 
 - 💬 Ask me about **Python, SQL, AIML, IOT, Blockchain.**
 
