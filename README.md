@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **prajapatvikram1503@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zeNy1DqppTBGRGjrP8SB3seR_o1iIGvX/view?usp=drivesdk](https://drive.google.com/file/d/1zeNy1DqppTBGRGjrP8SB3seR_o1iIGvX/view?usp=drivesdk)
+- 📄 Know about my experiences https://drive.google.com/file/d/1nqJxPfdMqTZ4IS-j_3iKcr_gK-Oa96GJ/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
