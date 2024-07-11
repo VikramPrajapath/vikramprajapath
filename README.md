@@ -23,7 +23,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vikram-prajapath-29385a227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vikram-prajapath-29385a227" height="30" width="40" /></a>
   
 <h3 align="left">Checkout my progress</h3>
-<a href="https://www.hackerrank.com/@prajapatvikram11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prajapatvikram11" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/prajapatvikram11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prajapatvikram11" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/prajapatvikram1503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="prajapatvikram1503" height="30" width="40" /></a>
 </p>
 
