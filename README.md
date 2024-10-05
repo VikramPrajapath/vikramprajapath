@@ -11,7 +11,7 @@
   
 - 💻 Check out my portfolio https://vikramprajapath.github.io/Portfolio/
 
-- 💬 Ask me about **Python, SQL, AIML, IOT, Blockchain.**
+- 💬 Ask me about ** Java, Python, SQL, AIML, IOT, Blockchain. **
 
 - 📫 How to reach me **prajapatvikram1503@gmail.com**
 
